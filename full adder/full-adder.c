@@ -1,6 +1,6 @@
 // Created on: June 2025
 // Created by: Sophie N
-// Created for: This is the code for a 1/2 adder
+// Created for: This is the code for a full adder
 
 const int DIGIT_Cin = 13;
 const int DIGIT_A1 = 12;
